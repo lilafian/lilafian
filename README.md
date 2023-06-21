@@ -1,7 +1,5 @@
-- 👋 Hi, I’m dumbprogrammer
-- 👀 I’m interested in operating systems
-- 🌱 I’m currently learning C# with Unity
-- 💞️ I’m looking to collaborate on TD IDK WHAT TO CALL IT
-- 📫 How to reach me: Discord - dumbprogrammer#9275
+yo, i'm lilaf
 
-- I just did the template because it showed up lol
+***owner & lead developer
+@ strawberry milk software***
+https://discord.gg/Eej56Kmk9w
