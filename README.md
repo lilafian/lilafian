@@ -1,6 +1,5 @@
-yo, i'm lilaf
+# yo, i'm lilaf.
+i'm the owner of <a href="https://strawberrymilksoftware.com">strawberry milk software</a>, a small developer group that posts projects <a href="https://github.com/StrawberryMilkSoftware">here on github.</a>
 
-***owner & lead developer
-@ strawberry milk software***
-
-https://discord.gg/Eej56Kmk9w
+### my stats
+<a href="http://www.github.com/Lilafian"><img src="https://github-readme-stats.vercel.app/api?username=Lilafian&show_icons=true&count_private=true&theme=radical" alt="My Github Stats"/></a>
