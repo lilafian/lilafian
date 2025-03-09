@@ -2,4 +2,4 @@
 programmer \
 i use c++ and javascript and not much else
 
-### CERTIFIED JS LIBRARY HATER
+### CERTIFIED JS FRAMEWORK HATER
