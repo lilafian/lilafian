@@ -1,5 +1,5 @@
 # // lilaf
 programmer \
-i use c++ and javascript and not much else
+i like low-level but i also do some web dev
 
-### CERTIFIED JS FRAMEWORK HATER
+i hate javascript frameworks >:(
