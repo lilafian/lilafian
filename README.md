@@ -1,5 +1,5 @@
 # // lilaf
-(low level) programmer && arch user btw
+(low level) programmer
 
 check out [my website](https://lilaf.dev) for more info
 
