@@ -1,4 +1,7 @@
 # // lilaf
+> [!NOTE]
+> My commits are unverified because i need to move my pgp keys back to my pc pls ignore :(
+
 (low level) programmer
 
 check out [my website](https://lilaf.dev) for more info
